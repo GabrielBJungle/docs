@@ -9,8 +9,8 @@
   "modeToggle": {
   "default": "dark"
   },
-  "backgroundImage": "/images/background_v2.png",
-  "favicon": "/favicon.svg",
+  "backgroundImage": "/images/background.png",
+  "favicon": "/favicon.ico",
 
   "colors": {
     "primary": "#141930",
@@ -36,7 +36,7 @@
     "url": "https://soba.xyz"
   },
   "search": {
-    "prompt": "My game idea is.."
+    "prompt": "I'm looking for..."
   },
   "navigation": [
     {
