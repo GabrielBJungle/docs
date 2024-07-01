@@ -10,7 +10,7 @@
   "default": "dark"
   },
   "backgroundImage": "/images/background.png",
-  "favicon": "/favicon.ico",
+  "favicon": "/favicon.png",
 
   "colors": {
     "primary": "#141930",
