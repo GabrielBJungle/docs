@@ -9,13 +9,13 @@
   "modeToggle": {
   "default": "dark"
   },
-  "backgroundImage": "/images/background.png",
+  "backgroundImage": "/images/background_v2.png",
   "favicon": "/favicon_new.svg",
 
   "colors": {
-    "primary": "#141930",
-    "light": "#141930",
-    "dark": "#35427D",
+    "primary": "#9366B0",
+    "light": "#9366B0",
+    "dark": "#9366B0",
     "background": {
       "light": "#FBFBFB",
       "dark": "#0F1116"
