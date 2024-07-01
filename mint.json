@@ -89,7 +89,7 @@
                 "icon": "flag",
                 "iconType": "regular",
                 "pages": ["ecosystem/introduction/overview",
-                "ecosystem/community"
+                "ecosystem/introduction/token"
                 ]
             },
           {
@@ -97,7 +97,9 @@
             "icon": "album-collection",
             "iconType": "regular",
             "pages": [
+              "ecosystem/collections/genesis",
               "ecosystem/collections/genesis"
+
             ]
           },
           {
@@ -105,7 +107,13 @@
             "icon": "ferris-wheel",
             "iconType": "regular",
             "pages": [
-              "ecosystem/playground/playground"
+              "ecosystem/playground/playground",
+              "ecosystem/playground/ecosystem-profile",
+              "ecosystem/playground/points",
+              "ecosystem/playground/seasons",
+              "ecosystem/playground/spins",
+              "ecosystem/playground/staking",
+              "ecosystem/playground/games"
             ]
           },
           {
@@ -113,7 +121,9 @@
             "icon": "church",
             "iconType": "regular",
             "pages": [
-              "ecosystem/community/discord"
+              "ecosystem/community/guilds",
+              "ecosystem/community/discord",
+              "ecosystem/community/manifesto"
             ]
           }
         ]
