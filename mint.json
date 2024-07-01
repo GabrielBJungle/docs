@@ -44,12 +44,12 @@
       "pages": ["home"]
     },
     {
-        "group": "INTRODUCTION",
+        "group": "Jungle",
         "pages": [
-            "introduction",
+            "jungle",
             {
-                "group": "Jungle",
-                "icon": "atom",
+                "group": "Introduction",
+                "icon": "play",
                 "iconType": "regular",
                 "pages": ["introduction/tldr",
                 "introduction/who",
@@ -66,12 +66,21 @@
                 "group": "Introduction",
                 "icon": "play",
                 "iconType": "regular",
-                "pages": ["ftw/overview", 
+                "pages": ["ftw/overview",
                   "ftw/uniqueness",
                 "ftw/progression",
                 "ftw/positivesum",
                 "ftw/state"]
-            }
+            },
+          {
+            "group": "Game Specs",
+            "icon": "play",
+            "iconType": "regular",
+            "pages": [
+              "ftw/uniqueness",
+              "ftw/progression",
+              "ftw/positivesum"]
+          }
         ]
     },
     {
@@ -80,14 +89,28 @@
             "ecosystem",
             {
                 "group": "Introduction",
-                "icon": "square-info",
+                "icon": "play",
                 "iconType": "regular",
                 "pages": ["ecosystem/overview",
-                "ecosystem/genesis",
-                "ecosystem/community",
-                "ecosystem/playground"
+                "ecosystem/community"
                 ]
-            }
+            },
+          {
+            "group": "Collections",
+            "icon": "play",
+            "iconType": "regular",
+            "pages": [
+              "ecosystem/genesis"
+            ]
+          },
+          {
+            "group": "Playground",
+            "icon": "play",
+            "iconType": "regular",
+            "pages": [
+              "ecosystem/playground"
+            ]
+          }
         ]
     }
   ],
