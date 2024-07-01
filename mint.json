@@ -1,10 +1,10 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Soba Wiki",
+  "name": "Jungle Docs",
   "logo": {
-    "dark": "/logo/soba_wiki.png",
-    "light": "/logo/soba_wiki.png",
-    "href": "https://wiki.soba.xyz"
+    "dark": "/logo/jungle_hero.png",
+    "light": "/logo/jungle_hero.png",
+    "href": "https://docs.itsjungle.xyz"
   },
   "modeToggle": {
   "default": "dark"
