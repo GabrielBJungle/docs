@@ -49,7 +49,7 @@
             "jungle",
             {
                 "group": "Introduction",
-                "icon": "play",
+                "icon": "flag",
                 "iconType": "regular",
                 "pages": ["introduction/tldr",
                 "introduction/who",
@@ -64,22 +64,19 @@
             "ftw",
             {
                 "group": "Introduction",
-                "icon": "play",
+                "icon": "flag",
                 "iconType": "regular",
-                "pages": ["ftw/overview",
-                  "ftw/uniqueness",
-                "ftw/progression",
-                "ftw/positivesum",
-                "ftw/state"]
+                "pages": ["ftw/introduction/overview",
+                "ftw/introduction/state"]
             },
           {
             "group": "Game Specs",
             "icon": "play",
             "iconType": "regular",
             "pages": [
-              "ftw/uniqueness",
-              "ftw/progression",
-              "ftw/positivesum"]
+              "ftw/specs/uniqueness",
+              "ftw/specs/progression",
+              "ftw/specs/positivesum"]
           }
         ]
     },
@@ -89,9 +86,9 @@
             "ecosystem",
             {
                 "group": "Introduction",
-                "icon": "play",
+                "icon": "flag",
                 "iconType": "regular",
-                "pages": ["ecosystem/overview",
+                "pages": ["ecosystem/introduction/overview",
                 "ecosystem/community"
                 ]
             },
@@ -100,7 +97,7 @@
             "icon": "play",
             "iconType": "regular",
             "pages": [
-              "ecosystem/genesis"
+              "ecosystem/collections/genesis"
             ]
           },
           {
@@ -108,7 +105,15 @@
             "icon": "play",
             "iconType": "regular",
             "pages": [
-              "ecosystem/playground"
+              "ecosystem/playground/playground"
+            ]
+          },
+          {
+            "group": "Community",
+            "icon": "play",
+            "iconType": "regular",
+            "pages": [
+              "ecosystem/community/discord"
             ]
           }
         ]
