@@ -9,8 +9,8 @@
   "modeToggle": {
   "default": "dark"
   },
-  "backgroundImage": "/images/phone_background.png",
-  "favicon": "/favicon_new.svg",
+  "backgroundImage": "/images/background.png",
+  "favicon": "/favicon.png",
 
   "colors": {
     "primary": "#141930",
