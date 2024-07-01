@@ -27,16 +27,16 @@
   },
   "topbarLinks": [
     {
-    "name": "Video Tutorials",
-    "url": "https://www.youtube.com/@soba_xyz/videos"
+    "name": "Discord",
+    "url": "https://discord.gg/junglexyz"
     }
   ],
   "topbarCtaButton": {
-    "name": "Get Access",
-    "url": "https://soba.xyz"
+    "name": "Premint",
+    "url": "https://premint.xyz/jungle"
   },
   "search": {
-    "prompt": "I'm looking for..."
+    "prompt": "Explore the Jungle..."
   },
   "navigation": [
     {
