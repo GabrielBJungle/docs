@@ -71,7 +71,7 @@
             },
           {
             "group": "Game Specs",
-            "icon": "play",
+            "icon": "joystick",
             "iconType": "regular",
             "pages": [
               "ftw/specs/uniqueness",
@@ -94,7 +94,7 @@
             },
           {
             "group": "Collections",
-            "icon": "play",
+            "icon": "album-collection",
             "iconType": "regular",
             "pages": [
               "ecosystem/collections/genesis"
@@ -102,7 +102,7 @@
           },
           {
             "group": "Playground",
-            "icon": "play",
+            "icon": "ferris-wheel",
             "iconType": "regular",
             "pages": [
               "ecosystem/playground/playground"
@@ -110,7 +110,7 @@
           },
           {
             "group": "Community",
-            "icon": "play",
+            "icon": "church",
             "iconType": "regular",
             "pages": [
               "ecosystem/community/discord"
