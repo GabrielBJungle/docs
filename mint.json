@@ -58,7 +58,7 @@
     {
         "group": "Ecosystem",
         "pages": [
-            "overview-eco", "genesis", "staking", "token", "community"
+            "genesis", "staking", "token", "community"
         ]
     }
   ],
