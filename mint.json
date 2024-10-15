@@ -52,13 +52,13 @@
     {
         "group": "For The Win (FTW)",
         "pages": [
-            "overview-ftw"
+            "overview-ftw", "ftw-gameplay", "tournaments", "clans", "wagering"
         ]
     },
     {
         "group": "Ecosystem",
         "pages": [
-            "genesis", "staking", "token", "playground" ,"community"
+            "genesis", "holders","staking", "token", "playground" ,"community"
         ]
     }
   ],
