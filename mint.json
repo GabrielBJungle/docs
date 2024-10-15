@@ -46,17 +46,7 @@
     {
         "group": "Jungle",
         "pages": [
-            "jungle",
-            {
-                "group": "Introduction",
-                "icon": "flag",
-                "iconType": "regular",
-                "pages": ["introduction/tldr",
-                "introduction/who",
-                "introduction/vision",
-                "introduction/mission"
-                ]
-            }
+            "tldr", "vision", "who", "mission"
         ]
     },
     {
