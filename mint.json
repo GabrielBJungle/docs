@@ -27,13 +27,13 @@
   },
   "topbarLinks": [
     {
-    "name": "Discord",
-    "url": "https://discord.gg/junglexyz"
+    "name": "Twitter",
+    "url": "https://x.com/jungle_xyz"
     }
   ],
   "topbarCtaButton": {
-    "name": "Premint",
-    "url": "https://premint.xyz/jungle"
+    "name": "Discord",
+    "url": "https://discord.gg/junglexyz"
   },
   "search": {
     "prompt": "Explore the Jungle..."
@@ -41,7 +41,7 @@
   "navigation": [
     {
       "group": "",
-      "pages": ["home"]
+      "pages": ["home", "ftw", "ecosystem"]
     },
     {
         "group": "Jungle",
@@ -132,7 +132,7 @@
   ],
   "footerSocials": {
     "discord": "https://discord.gg/junglexyz",
-    "linkedin": "https://www.linkedin.com/company/jungle-xyz"
+    "twitter": "https://x.com/jungle_xyz"
   },
   "feedback": {
     "thumbsRating": true
