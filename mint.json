@@ -53,13 +53,14 @@
                 "iconType": "regular",
                 "pages": ["introduction/tldr",
                 "introduction/who",
-                "introduction/vision"
+                "introduction/vision",
+                "introduction/mission"
                 ]
             }
         ]
     },
     {
-        "group": "FOR THE WIN",
+        "group": "For The Win (FTW)",
         "pages": [
             "ftw",
             {
@@ -81,7 +82,7 @@
         ]
     },
     {
-        "group": "ECOSYSTEM",
+        "group": "Ecosystem",
         "pages": [
             "ecosystem",
             {
