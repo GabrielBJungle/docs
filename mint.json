@@ -46,77 +46,19 @@
     {
         "group": "Jungle",
         "pages": [
-            "tldr", "vision", "who", "mission"
+            "who", "vision", "mission"
         ]
     },
     {
         "group": "For The Win (FTW)",
         "pages": [
-            "ftw",
-            {
-                "group": "Introduction",
-                "icon": "flag",
-                "iconType": "regular",
-                "pages": ["ftw/introduction/overview",
-                "ftw/introduction/state"]
-            },
-          {
-            "group": "Game Specs",
-            "icon": "joystick",
-            "iconType": "regular",
-            "pages": [
-              "ftw/specs/uniqueness",
-              "ftw/specs/progression",
-              "ftw/specs/positivesum"]
-          }
+            "overview-ftw", "state"
         ]
     },
     {
         "group": "Ecosystem",
         "pages": [
-            "ecosystem",
-            {
-                "group": "Introduction",
-                "icon": "flag",
-                "iconType": "regular",
-                "pages": ["ecosystem/introduction/overview",
-                "ecosystem/introduction/token"
-                ]
-            },
-          {
-            "group": "Collections",
-            "icon": "album-collection",
-            "iconType": "regular",
-            "pages": [
-              "ecosystem/collections/genesis",
-              "ecosystem/collections/fruits"
-
-            ]
-          },
-          {
-            "group": "Playground",
-            "icon": "ferris-wheel",
-            "iconType": "regular",
-            "pages": [
-              "ecosystem/playground/playground",
-              "ecosystem/playground/ecosystem-profile",
-              "ecosystem/playground/points",
-              "ecosystem/playground/seasons",
-              "ecosystem/playground/spins",
-              "ecosystem/playground/staking",
-              "ecosystem/playground/games"
-            ]
-          },
-          {
-            "group": "Community",
-            "icon": "church",
-            "iconType": "regular",
-            "pages": [
-              "ecosystem/community/guilds",
-              "ecosystem/community/discord",
-              "ecosystem/community/manifesto"
-            ]
-          }
+            "overview-eco", "genesis", "staking", "token", "community"
         ]
     }
   ],
