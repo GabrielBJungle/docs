@@ -73,13 +73,13 @@
   {
     "name": "For The Win",
     "icon": "gamepad",  
-    "url": "ftw",
+    "url": "ftw/home",
     "isDefaultHidden": false
   },
   {
     "name": "Ecosystem",
     "icon": "leaf",
-    "url": "ecosystem",
+    "url": "ecosystem/home",
     "isDefaultHidden": false
   }
   ,
