@@ -46,13 +46,13 @@
         ]
     },
     {
-        "group": "ftw",
+        "group": "FTW",
         "pages": [
            "ftw/ftw", "ftw/overview-ftw", "ftw/gameplay", "ftw/tournaments", "ftw/clans", "ftw/custom-lobbies","ftw/wagering"
         ]
     },
     {
-        "group": "ecosystem",
+        "group": "Ecosystem",
         "pages": [
             "ecosystem/ecosystem","ecosystem/genesis", "ecosystem/holders","ecosystem/staking", "ecosystem/juice" ,"ecosystem/community"
         ]
@@ -73,12 +73,12 @@
   {
     "name": "For The Win",
     "icon": "gamepad",  
-    "url": "https://jungle-cf4e4f27.mintlify.app/ftw/ftw-home",
+    "url": "ftw",
     "isDefaultHidden": false
   },
   {
     "name": "Ecosystem",
-    "icon": "leaf",
+    "icon": "dice-d20",
     "url": "ecosystem",
     "isDefaultHidden": false
   }
