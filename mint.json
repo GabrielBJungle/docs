@@ -22,7 +22,7 @@
     },
     "anchors": {
       "from": "#FF855F",
-      "to": "#FF4949"
+      "to": "#9704d6"
     }
   },
   "topbarLinks": [
@@ -42,7 +42,7 @@
     {
         "group": "Jungle",
         "pages": [
-           "home", "who", "vision", "manifesto", "roadmap"
+           "home", "manifesto", "vision", "roadmap"
         ]
     },
     {
