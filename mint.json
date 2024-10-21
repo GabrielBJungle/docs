@@ -40,25 +40,21 @@
   },
   "navigation": [
     {
-      "group": "jungle",
-      "pages": ["home", "ftw", "ecosystem"]
-    },
-    {
-        "group": "Jungle",
+        "group": "jungle",
         "pages": [
-            "who", "vision", "mission", "roadmap"
+           "home", "who", "vision", "mission", "roadmap"
         ]
     },
     {
-        "group": "For The Win (FTW)",
+        "group": "ftw",
         "pages": [
-            "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
+           "ftw", "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
         ]
     },
     {
-        "group": "Ecosystem",
+        "group": "ecosystem",
         "pages": [
-            "genesis", "holders","staking", "juice" ,"community"
+            "ecosystem","genesis", "holders","staking", "juice" ,"community"
         ]
     }
   ],
@@ -77,7 +73,7 @@
     {
         "name": "Jungle",
         "icon": "dice",
-        "url": "home"
+        "url": "jungle"
     },
     {
         "name": "For The Win",
