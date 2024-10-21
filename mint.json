@@ -65,11 +65,15 @@
   "feedback": {
     "thumbsRating": false
   },
+  "topAnchor": {
+    "name": "Jungle",
+    "icon": "landmark"
+},
   "anchors": [
   {
     "name": "For The Win",
     "icon": "gamepad",  
-    "url": "ftw-home",
+    "url": "who",
     "isDefaultHidden": false
   },
   {
