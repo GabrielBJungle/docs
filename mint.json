@@ -40,6 +40,10 @@
   },
   "navigation": [
     {
+      "group": "",
+      "pages": ["home", "ftw", "ecosystem"]
+    },
+    {
         "group": "Jungle",
         "pages": [
             "who", "vision", "mission", "roadmap"
@@ -83,7 +87,7 @@
     {
       "name": "Ecosystem",
       "icon": "dice-d20",
-      "url": "ecosystem"
+      "url": "/ecosystem"
   },
     {
         "name": "Juice",
