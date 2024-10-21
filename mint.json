@@ -69,17 +69,18 @@
     "name": "Jungle",
     "icon": "landmark"
 },
-  "anchors": [
-    {
-        "name": "For The Win",
-        "icon": "glass-water",
-        "url": "ftw/",
-        "isDefaultHidden": false
-    },
-    {
-        "name": "Ecosystem",
-        "icon": "glass-water",
-        "url": "ecosystem"
-    }
+"anchors": [
+  {
+    "name": "For The Win",
+    "icon": "gamepad",  
+    "url": "/ftw/",
+    "isDefaultHidden": false
+  },
+  {
+    "name": "Ecosystem",
+    "icon": "leaf",
+    "url": "/ecosystem",
+    "isDefaultHidden": false
+  }
 ]
 }
