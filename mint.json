@@ -40,10 +40,6 @@
   },
   "navigation": [
     {
-      "group": "",
-      "pages": ["home", "ftw", "ecosystem"]
-    },
-    {
         "group": "Jungle",
         "pages": [
             "who", "vision", "mission", "roadmap"
@@ -71,18 +67,23 @@
   },
   "anchors": [
     {
-        "name": "API References",
-        "icon": "code",
+        "name": "Jungle",
+        "icon": "landmark",
         "url": "home"
     },
     {
-        "name": "Content",
-        "icon": "pencil",
-        "url": "content"
+        "name": "For The Win",
+        "icon": "gamepad",
+        "url": "ftw"
     },
     {
+      "name": "Ecosystem",
+      "icon": "dice-d20",
+      "url": "ecosystem"
+  },
+    {
         "name": "Juice",
-        "icon": "envelope",
+        "icon": "glass-water",
         "url": "https://itsjuice.xyz"
     }
 ]
