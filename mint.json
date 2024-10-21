@@ -48,13 +48,13 @@
     {
         "group": "ftw",
         "pages": [
-           "home", "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
+           "ftw-home", "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
         ]
     },
     {
         "group": "ecosystem",
         "pages": [
-            "home","genesis", "holders","staking", "juice" ,"community"
+            "ecosystem-home","genesis", "holders","staking", "juice" ,"community"
         ]
     }
   ],
@@ -73,13 +73,13 @@
   {
     "name": "For The Win",
     "icon": "gamepad",  
-    "url": "ftw/home",
+    "url": "ftw-home",
     "isDefaultHidden": false
   },
   {
     "name": "Ecosystem",
     "icon": "leaf",
-    "url": "ecosystem/home",
+    "url": "ecosystem-home",
     "isDefaultHidden": false
   }
   ,
