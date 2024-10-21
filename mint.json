@@ -73,17 +73,17 @@
     {
         "name": "Jungle",
         "icon": "landmark",
-        "url": "/home"
+        "url": "home"
     },
     {
         "name": "For The Win",
         "icon": "gamepad",
-        "url": "/ftw"
+        "url": "ftw"
     },
     {
       "name": "Ecosystem",
       "icon": "dice-d20",
-      "url": "/ecosystem"
+      "url": "ecosystem"
   },
     {
         "name": "Juice",
@@ -94,7 +94,7 @@
     {
         "name": "Jungle",
         "icon": "landmark",
-        "url": "/home"
+        "url": "home"
     }
 ]
 }
