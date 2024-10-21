@@ -48,13 +48,13 @@
     {
         "group": "ftw",
         "pages": [
-           "ftw", "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
+           "home", "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
         ]
     },
     {
         "group": "ecosystem",
         "pages": [
-            "ecosystem","genesis", "holders","staking", "juice" ,"community"
+            "home","genesis", "holders","staking", "juice" ,"community"
         ]
     }
   ],
@@ -69,17 +69,24 @@
     "name": "Jungle",
     "icon": "landmark"
 },
-"anchors": [
+  "anchors": [
   {
     "name": "For The Win",
     "icon": "gamepad",  
-    "url": "/ftw/",
+    "url": "ftw",
     "isDefaultHidden": false
   },
   {
     "name": "Ecosystem",
     "icon": "leaf",
-    "url": "/ecosystem",
+    "url": "ecosystem",
+    "isDefaultHidden": false
+  }
+  ,
+  {
+    "name": "Juuice",
+    "icon": "glass-water",
+    "url": "https://itsjuice.xyz",
     "isDefaultHidden": false
   }
 ]
