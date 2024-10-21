@@ -66,15 +66,10 @@
     "thumbsRating": false
   },
   "topAnchor": {
-    "name": "Home",
-    "icon": "building"
+    "name": "Jungle",
+    "icon": "landmark"
 },
   "anchors": [
-    {
-        "name": "Jungle",
-        "icon": "dice",
-        "url": "home"
-    },
     {
         "name": "For The Win",
         "icon": "glass-water",
@@ -84,13 +79,7 @@
     {
         "name": "Ecosystem",
         "icon": "glass-water",
-
         "url": "ecosystem"
-    },
-    {
-        "name": "Juice",
-        "icon": "glass-water",
-        "url": "https://itsjuice.xyz"
     }
 ]
 }
