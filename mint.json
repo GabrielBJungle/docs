@@ -81,14 +81,14 @@
     },
     {
         "name": "For The Win",
-        "icon": "gamepad",
+        "icon": "dice-d20",
         "url": "ftw"
     },
     {
-      "name": "Ecosystem",
-      "icon": "dice-d20",
-      "url": "ecosystem"
-  },
+        "name": "Ecosystem",
+        "icon": "dice-d20",
+        "url": "ecosystem"
+    },
     {
         "name": "Juice",
         "icon": "glass-water",
