@@ -54,7 +54,7 @@
     {
         "group": "Ecosystem",
         "pages": [
-            "ecosystem/ecosystem","ecosystem/genesis", "ecosystem/holders","ecosystem/staking", "ecosystem/juice" ,"ecosystem/community"
+            "ecosystem/ecosystem","ecosystem/genesis", "ecosystem/holders","ecosystem/staking", "ecosystem/playground", "ecosystem/juice"
         ]
     }
   ],
