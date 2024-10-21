@@ -76,7 +76,7 @@
   "anchors": [
     {
         "name": "Jungle",
-        "icon": "landmark",
+        "icon": "dice",
         "url": "home"
     },
     {
@@ -93,12 +93,6 @@
         "name": "Juice",
         "icon": "glass-water",
         "url": "https://itsjuice.xyz"
-    }
-    ,
-    {
-        "name": "Jungle",
-        "icon": "landmark",
-        "url": "/jungle"
     }
 ]
 }
