@@ -52,7 +52,7 @@
     {
         "group": "For The Win (FTW)",
         "pages": [
-            "overview-ftw", "ftw-gameplay", "tournaments", "clans", "wagering"
+            "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
         ]
     },
     {
