@@ -65,6 +65,10 @@
   "feedback": {
     "thumbsRating": false
   },
+  "topAnchor": {
+    "name": "Home",
+    "icon": "building"
+},
   "anchors": [
     {
         "name": "Jungle",
