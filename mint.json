@@ -78,7 +78,7 @@
   },
   {
     "name": "Ecosystem",
-    "icon": "dice-d20",
+    "icon": "atom",
     "url": "ecosystem",
     "isDefaultHidden": false
   }
