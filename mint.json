@@ -82,12 +82,12 @@
     {
         "name": "For The Win",
         "icon": "gamepad",
-        "url": "ftw.mdx"
+        "url": "ftw"
     },
     {
       "name": "Ecosystem",
       "icon": "dice-d20",
-      "url": "home/ecosystem"
+      "url": "ecosystem"
   },
     {
         "name": "Juice",
