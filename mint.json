@@ -94,7 +94,7 @@
     {
         "name": "Jungle",
         "icon": "landmark",
-        "url": "home"
+        "url": "/jungle"
     }
 ]
 }
