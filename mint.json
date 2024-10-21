@@ -54,7 +54,7 @@
     {
         "group": "ecosystem",
         "pages": [
-            "ecosystem-home","genesis", "holders","staking", "juice" ,"community"
+            "ecosystem/ecosystem","ecosystem/genesis", "ecosystem/holders","ecosystem/staking", "ecosystem/juice" ,"ecosystem/community"
         ]
     }
   ],
@@ -79,7 +79,7 @@
   {
     "name": "Ecosystem",
     "icon": "leaf",
-    "url": "ecosystem-home",
+    "url": "ecosystem",
     "isDefaultHidden": false
   }
   ,
