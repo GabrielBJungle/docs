@@ -40,10 +40,6 @@
   },
   "navigation": [
     {
-      "group": "",
-      "pages": ["home", "ftw", "ecosystem"]
-    },
-    {
         "group": "Jungle",
         "pages": [
             "who", "vision", "mission", "roadmap"
@@ -87,6 +83,12 @@
   },
     {
         "name": "Juice",
+        "icon": "glass-water",
+        "url": "https://itsjuice.xyz"
+    }
+    ,
+    {
+        "name": "alo",
         "icon": "glass-water",
         "url": "https://itsjuice.xyz"
     }
