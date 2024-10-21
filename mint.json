@@ -48,7 +48,7 @@
     {
         "group": "ftw",
         "pages": [
-           "ftw-home", "overview-ftw", "gameplay", "tournaments", "clans", "custom-lobbies","wagering"
+           "ftw/ftw", "ftw/overview-ftw", "ftw/gameplay", "ftw/tournaments", "ftw/clans", "ftw/custom-lobbies","ftw/wagering"
         ]
     },
     {
