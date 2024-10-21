@@ -68,5 +68,23 @@
   },
   "feedback": {
     "thumbsRating": false
-  }
+  },
+  "anchors": [
+    {
+        "name": "API References",
+        "icon": "code",
+        "url": "home"
+    },
+    {
+        "name": "Content",
+        "icon": "pencil",
+        "url": "content"
+    },
+    {
+        "name": "Juice",
+        "icon": "envelope",
+        "url": "https://itsjuice.xyz"
+    }
+]
+]
 }
